@@ -1,3 +1,0 @@
-[GNOME Session]
-Name=GNOME + XMonad
-RequiredComponents=gnome-flashback-init;gnome-flashback;gnome-panel;xmonad;unity-settings-daemon;gnome-flashback-services;

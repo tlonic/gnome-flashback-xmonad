@@ -1,0 +1,3 @@
+[GNOME Session]
+Name=GNOME Flashback (XMonad)
+RequiredComponents=gnome-flashback-init;gnome-flashback;gnome-panel;xmonad;gnome-flashback-services;

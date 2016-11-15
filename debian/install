@@ -1,3 +1,0 @@
-gnome-session-xmonad usr/bin
-gnome-xmonad.session /usr/share/gnome-session/sessions
-gnome-xmonad.desktop /usr/share/xsessions
