@@ -4,4 +4,7 @@ if [ -z $XDG_CURRENT_DESKTOP ]; then
   export XDG_CURRENT_DESKTOP="GNOME-Flashback:GNOME"
 fi
 
+export XDG_SESSION_TYPE=x11
+
 exec compton & gnome-session --session=gnome-flashback-xmonad --disable-acceleration-check "$@"
+
